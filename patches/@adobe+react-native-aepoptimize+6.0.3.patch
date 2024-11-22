@@ -1,0 +1,139 @@
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/.project b/node_modules/@adobe/react-native-aepoptimize/android/.project
+new file mode 100644
+index 0000000..03e71e4
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/.project
+@@ -0,0 +1,34 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<projectDescription>
++	<name>adobe_react-native-aepoptimize</name>
++	<comment>Project adobe_react-native-aepoptimize created by Buildship.</comment>
++	<projects>
++	</projects>
++	<buildSpec>
++		<buildCommand>
++			<name>org.eclipse.jdt.core.javabuilder</name>
++			<arguments>
++			</arguments>
++		</buildCommand>
++		<buildCommand>
++			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
++			<arguments>
++			</arguments>
++		</buildCommand>
++	</buildSpec>
++	<natures>
++		<nature>org.eclipse.jdt.core.javanature</nature>
++		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
++	</natures>
++	<filteredResources>
++		<filter>
++			<id>1732260672194</id>
++			<name></name>
++			<type>30</type>
++			<matcher>
++				<id>org.eclipse.core.resources.regexFilterMatcher</id>
++				<arguments>node_modules|\.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
++			</matcher>
++		</filter>
++	</filteredResources>
++</projectDescription>
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/bin/build/generated/source/buildConfig/debug/com/adobe/marketing/mobile/reactnative/optimize/BuildConfig.class b/node_modules/@adobe/react-native-aepoptimize/android/bin/build/generated/source/buildConfig/debug/com/adobe/marketing/mobile/reactnative/optimize/BuildConfig.class
+new file mode 100644
+index 0000000..2470b7d
+Binary files /dev/null and b/node_modules/@adobe/react-native-aepoptimize/android/bin/build/generated/source/buildConfig/debug/com/adobe/marketing/mobile/reactnative/optimize/BuildConfig.class differ
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeModule.class b/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeModule.class
+new file mode 100644
+index 0000000..7891c7f
+Binary files /dev/null and b/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeModule.class differ
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizePackage.class b/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizePackage.class
+new file mode 100644
+index 0000000..5fe30d5
+Binary files /dev/null and b/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizePackage.class differ
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.class b/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.class
+new file mode 100644
+index 0000000..5dd5552
+Binary files /dev/null and b/node_modules/@adobe/react-native-aepoptimize/android/bin/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.class differ
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/generated/source/buildConfig/debug/com/adobe/marketing/mobile/reactnative/optimize/BuildConfig.java b/node_modules/@adobe/react-native-aepoptimize/android/build/generated/source/buildConfig/debug/com/adobe/marketing/mobile/reactnative/optimize/BuildConfig.java
+new file mode 100644
+index 0000000..06dedea
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/generated/source/buildConfig/debug/com/adobe/marketing/mobile/reactnative/optimize/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.adobe.marketing.mobile.reactnative.optimize;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.adobe.marketing.mobile.reactnative.optimize";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar
+new file mode 100644
+index 0000000..4133cfc
+Binary files /dev/null and b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar differ
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..a744502
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Fri Nov 22 14:02:58 IST 2024
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..2f87e79
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/namarora/Documents/Dev/newOptimiseSampleApp/node_modules/@adobe/react-native-aepoptimize/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/namarora/Documents/Dev/newOptimiseSampleApp/node_modules/@adobe/react-native-aepoptimize/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/namarora/Documents/Dev/newOptimiseSampleApp/node_modules/@adobe/react-native-aepoptimize/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/namarora/Documents/Dev/newOptimiseSampleApp/node_modules/@adobe/react-native-aepoptimize/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/namarora/Documents/Dev/newOptimiseSampleApp/node_modules/@adobe/react-native-aepoptimize/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/namarora/Documents/Dev/newOptimiseSampleApp/node_modules/@adobe/react-native-aepoptimize/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+new file mode 100644
+index 0000000..08f4ebe
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+@@ -0,0 +1 @@
++0 Warning/Error
+\ No newline at end of file
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+new file mode 100644
+index 0000000..410f8af
+--- /dev/null
++++ b/node_modules/@adobe/react-native-aepoptimize/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+@@ -0,0 +1 @@
++com.adobe.marketing.mobile.reactnative.optimize
+diff --git a/node_modules/@adobe/react-native-aepoptimize/android/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.java b/node_modules/@adobe/react-native-aepoptimize/android/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.java
+index d76bfde..b986006 100644
+--- a/node_modules/@adobe/react-native-aepoptimize/android/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.java
++++ b/node_modules/@adobe/react-native-aepoptimize/android/src/main/java/com/adobe/marketing/mobile/reactnative/optimize/RCTAEPOptimizeUtil.java
+@@ -72,7 +72,7 @@ class RCTAEPOptimizeUtil {
+         if (offer.getMeta() != null) {
+             offerWritableMap.putMap("meta", convertMapToWritableMap(new HashMap<String, Object>(offer.getMeta())));
+         }
+-        offerWritableMap.putInt("score", offer.getScore());
++        offerWritableMap.putDouble("score", offer.getScore());
+ 
+         final WritableMap dataWritableMap = new WritableNativeMap();
+         dataWritableMap.putString("id", offer.getId());
